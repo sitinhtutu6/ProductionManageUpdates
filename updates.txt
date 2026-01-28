@@ -1,0 +1,15 @@
+;aiu;
+
+[Update 1.0.1]
+Name = ProductManagerWebsite
+ProductVersion = 1.0.1.0
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.1/ProductManagerWebsite.exe
+Size = 218394172
+ReleaseDate = 28/01/2026
+SHA256 = 3C8C17B4327FFAA8D893D557400EB0011575BDF1BE67A0E943B2DA93E8B946D9
+MD5 = 4bdee637c1572f0ac9af0671607c2e3b
+ServerFileName = ProductManagerWebsite.exe
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.0.1.0
+Feature = - add Document manager
+BugFix = - fix Order page
