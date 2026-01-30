@@ -1,12 +1,14 @@
-[Update 1.0.3]
+[Update 1.0.4]
 Name = ProductManagerWebsite
-ProductVersion = 1.0.3
-URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.3/ProductManagerWebsite.exe
-Size = 218394176
-ReleaseDate = 29/01/2026
-SHA256 = B973024FF642891F22DEE84300843C7D5C5589FF324CA07B97BA1D15441118D8
-MD5 = 01e0e4a2e93355f9e0f390b2af89ef0d
+ProductVersion = 1.0.4
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.4/ProductManagerWebsite.exe
+Size = 218414118
+ReleaseDate = 30/01/2026
+SHA256 = 988411BB1B272B2C70947967F1B2E196EC9E365C736D9C47B73A0947467236E3
+MD5 = 69d05a6173973a27c53e9c230f976cba
 ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
 RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
-Version = 1.0.3
-Feature = - add role for each page
+Version = 1.0.4
+Feature = - groupby wood type in BOM
+BugFix = - fix bug can't create cashbook from PO Details
