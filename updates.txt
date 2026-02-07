@@ -1,16 +1,16 @@
 ;aiu;
 
-[Update 1.0.7]
+[Update 1.0.8]
 Name = Product Server
-ProductVersion = 1.0.7
-URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.7/ProductManagerWebsite.exe
-Size = 218512819
+ProductVersion = 1.0.8
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.8/ProductManagerWebsite.exe
+Size = 218514528
 ReleaseDate = 07/02/2026
-SHA256 = E9B8434A1617FD2F4D61FC694954C830B85332919D3B1095C2196B463897F622
-MD5 = 75d09b413b33ba26ae3413090dca738e
-ServerFileName = ProductManagerWebsiteV1.0.7.exe
+SHA256 = 1CF5AD04E50B5859B845B1FC4090CE216D7AE38FA20C7A0CCAC6A602838E0D8D
+MD5 = f14551ec593731636a6c23086556b431
+ServerFileName = ProductManagerWebsite.exe
 Flags = Critical
 RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
-Version = 1.0.7
-Feature = - Ollama beta
-BugFix = - fix bug register
+Version = 1.0.8
+Feature = - groupby wood type in BOM
+BugFix = - fix bug can't create cashbook from PO Details
