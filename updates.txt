@@ -13,4 +13,5 @@ Flags = Critical
 RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
 Version = 1.0.8
 Feature = - groupby wood type in BOM
-BugFix = - fix bug can't create cashbook from PO Details
+BugFix = - fix bug connect MySQL
+
