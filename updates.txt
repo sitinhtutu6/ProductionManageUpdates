@@ -3,15 +3,14 @@
 [Update 1.0.8]
 Name = Product Server
 ProductVersion = 1.0.8
-URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.8/ProductManagerWebsite.exe
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.8.0/ProductManagerWebsiteV1.0.8.exe
 Size = 218514528
 ReleaseDate = 07/02/2026
-SHA256 = 1CF5AD04E50B5859B845B1FC4090CE216D7AE38FA20C7A0CCAC6A602838E0D8D
-MD5 = f14551ec593731636a6c23086556b431
+SHA256 = 96F0DC599FDEF600F32AC6FC96B54F8EE8342A1F6E9763B6FE3BEC36ACE53F17
+MD5 = 214c4a8603eb887635149e8e6e7e893a
 ServerFileName = ProductManagerWebsite.exe
 Flags = Critical
 RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
 Version = 1.0.8
 Feature = - groupby wood type in BOM
-BugFix = - fix bug connect MySQL
-
+BugFix = - fix bug can't create cashbook from PO Details
