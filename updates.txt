@@ -1,88 +1,16 @@
 ;aiu;
 
-[Update 1.0.6]
-Name = ProductManagerWebsite
-ProductVersion = 1.0.6
-URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.6/ProductManagerWebsite.exe
-Size = 218449673
-ReleaseDate = 06/02/2026
-SHA256 = 99166F0AEC7BA23F0B03C6768BC40816B90574D2D116AECDBB362AD1B3CFD691
-MD5 = 3d652c2ce1dedfdef7e50d3e67ff817a
-ServerFileName = ProductManagerWebsite.exe
+[Update 1.0.7]
+Name = Product Server
+ProductVersion = 1.0.7
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.7/ProductManagerWebsite.exe
+Size = 218512819
+ReleaseDate = 07/02/2026
+SHA256 = E9B8434A1617FD2F4D61FC694954C830B85332919D3B1095C2196B463897F622
+MD5 = 75d09b413b33ba26ae3413090dca738e
+ServerFileName = ProductManagerWebsiteV1.0.7.exe
 Flags = Critical
 RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
-Version = 1.0.6
-Feature = - groupby wood type in BOM
-BugFix = - fix bug can't create cashbook from PO Details
-
-[Update 1.0.5]
-Name = ProductManagerWebsite
-ProductVersion = 1.0.5
-URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.5/ProductManagerWebsite.exe
-Size = 218449673
-ReleaseDate = 06/02/2026
-SHA256 = 99166F0AEC7BA23F0B03C6768BC40816B90574D2D116AECDBB362AD1B3CFD691
-MD5 = 3d652c2ce1dedfdef7e50d3e67ff817a
-ServerFileName = ProductManagerWebsite.exe
-Flags = Critical
-RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
-Version = 1.0.5
-Feature = - groupby wood type in BOM
-BugFix = - fix bug can't create cashbook from PO Details
-
-[Update 1.0.4]
-Name = ProductManagerWebsite
-ProductVersion = 1.0.4
-URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.4/ProductManagerWebsite.exe
-Size = 218449673
-ReleaseDate = 30/01/2026
-SHA256 = 99166F0AEC7BA23F0B03C6768BC40816B90574D2D116AECDBB362AD1B3CFD691
-MD5 = 3d652c2ce1dedfdef7e50d3e67ff817a
-ServerFileName = ProductManagerWebsite.exe
-Flags = Critical
-RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
-Version = 1.0.4
-Feature = - groupby wood type in BOM
-BugFix = - fix bug can't create cashbook from PO Details
-
-[Update 1.0.3]
-Name = ProductManagerWebsite
-ProductVersion = 1.0.3
-URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.3/ProductManagerWebsite.exe
-Size = 218449673
-ReleaseDate = 28/01/2026
-SHA256 = 99166F0AEC7BA23F0B03C6768BC40816B90574D2D116AECDBB362AD1B3CFD691
-MD5 = 3d652c2ce1dedfdef7e50d3e67ff817a
-ServerFileName = ProductManagerWebsite.exe
-RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
-Version = 1.0.3
-Feature = - add Document manager
-BugFix = - fix Order page
-
-[Update 1.0.2]
-Name = ProductManagerWebsite
-ProductVersion = 1.0.2.0
-URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.2/ProductManagerWebsite.exe
-Size = 218449673
-ReleaseDate = 28/01/2026
-SHA256 = 99166F0AEC7BA23F0B03C6768BC40816B90574D2D116AECDBB362AD1B3CFD691
-MD5 = 3d652c2ce1dedfdef7e50d3e67ff817a
-ServerFileName = ProductManagerWebsite.exe
-RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
-Version = 1.0.2.0
-Feature = - add Document manager
-BugFix = - fix Order page
-
-[Update 1.0.1]
-Name = ProductManagerWebsite
-ProductVersion = 1.0.1.0
-URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.1/ProductManagerWebsite.exe
-Size = 218449673
-ReleaseDate = 28/01/2026
-SHA256 = 99166F0AEC7BA23F0B03C6768BC40816B90574D2D116AECDBB362AD1B3CFD691
-MD5 = 3d652c2ce1dedfdef7e50d3e67ff817a
-ServerFileName = ProductManagerWebsite.exe
-RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
-Version = 1.0.1.0
-Feature = - add Document manager
-BugFix = - fix Order page
+Version = 1.0.7
+Feature = - Ollama beta
+BugFix = - fix bug register
