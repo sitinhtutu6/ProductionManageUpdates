@@ -2,7 +2,20 @@
 
 **Hệ thống Quản lý Sản xuất & Kinh doanh**
 
-Production Manager là một ứng dụng web được xây dựng trên nền tảng **ASP.NET Core (MVC)** giúp doanh nghiệp quản lý quy trình từ đơn hàng, định mức nguyên vật liệu (BOM), kế hoạch sản xuất (MRP) đến kho bãi và tài chính.
+Production Manager là một ứng dụng web được xây dựng trên nền tảng **ASP.NET Core (MVC)** giúp doanh nghiệp quản lý quy trình từ đơn hàng, định mức nguyên vật liệu, kế hoạch sản xuất và tài chính.
+
+## TẠI SAO LẠI CÓ ỨNG DỤNG NÀY?
+* Bạn là chủ doanh nghiệp nhỏ không muốn đầu tư quá nhiều vào ứng dụng tốn phí hằng tháng/ năm?
+* Bạn không biết cách thiết lập quản lý file Excel để chúng liên kết với nhau hoặc không biết dùng Excel một cách chuyên nghiệp?
+* Bạn không muốn tổng hợp dữ liệu phức tạp từ Excel như một kết toán?
+* **Nhưng:**
+* Bạn muốn quản lý doanh nghiệp một cách chặt chẽ dù bản thân không có chuyên môn về kế toán hoặc am hiểu về phần mềm?
+* Bạn muốn tìm kiếm nhanh các chứng từ, số liệu, tài liệu một cách chính xác dù đã rất lâu?
+* Bạn muốn tra cứu ngay các công nợ cần phải thu/ chi, các khoản vay đã, chưa và đang hạch toán.
+* Bạn muốn biết dòng tiền thực tế doanh nghiệp cuả mình?
+* Bạn muốn biết nhân viên có đang quản lý tốt các chứng từ lâu năm?
+* Bạn muốn có một ứng dụng sát thực tế với doanh nghiệp nhỏ, dễ sử dụng và dễ triển khai
+* **ĐÓ LÀ LÝ ỨNG DỤNG NÀY ĐƯỢC RA ĐỜI ĐỂ GIẢI QUYẾT CÁC VẤN ĐỀ NÊU TRÊN**
 
 ## 🚀 Tính năng chính
 
@@ -47,3 +60,9 @@ Production Manager là một ứng dụng web được xây dựng trên nền t
     + Tạo phòng chat (new channel) và Add bot vừa tạo vào, sau đó truy cập vào phòng chat
     + Link web có dạng: https://web.telegram.org/k/#-5115188192
     + Chat ID là: -5115188192 hãy copy và paste vào Tele Chat ID
+
+### 5. LƯU Ý:
+- Đây là dự án cá nhân **vide-code** không mang tính chuyên nghiệp và **không thương mại hoá**, người dùng nên kiểm tra/ đối soát lại số liệu có đúng yêu cầu mong muốn không!
+- Một số tính năng như ngôn ngữ đang trong quá trình phát triển nên có thể còn tồn động và sai sót.
+- Hãy dùng version mới nhất để tránh sai sót.
+- Mặc dù ứng dụng sử dụng mạng LAN để tránh tình trạng bị đánh cắp dữ liệu, nhưng hãy backup dữ liệu và lưu chứng từ hàng tháng để đảm bảo an toàn.
