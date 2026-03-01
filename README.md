@@ -11,10 +11,12 @@ Production Manager là một ứng dụng web được xây dựng trên nền t
 * **Nhưng:**
 * Bạn muốn quản lý doanh nghiệp một cách chặt chẽ dù bản thân không có chuyên môn về kế toán hoặc am hiểu về phần mềm?
 * Bạn muốn tìm kiếm nhanh các chứng từ, số liệu, tài liệu một cách chính xác dù đã rất lâu?
-* Bạn muốn tra cứu ngay các công nợ cần phải thu/ chi, các khoản vay đã, chưa và đang hạch toán.
-* Bạn muốn biết dòng tiền thực tế doanh nghiệp cuả mình?
-* Bạn muốn biết nhân viên có đang quản lý tốt các chứng từ lâu năm?
-* Bạn muốn có một ứng dụng sát thực tế với doanh nghiệp nhỏ, dễ sử dụng và dễ triển khai
+* Bạn muốn quản lý tốt các chứng từ dù trãi qua thời gian dài và có nhiều bản revised?
+* Bạn muốn lưu trữ thông tin về sản phẩm, đơn hàng, kho vật tư một cách logic và chặt chẽ nhưng không quá phức tạp như các ứng dụng lớn?
+* Bạn cần tra cứu ngay các khoản vay, các công nợ cần thu/chi đã, đang và chưa thanh toán.
+* Bạn cần biết các khoản thu/ chi thực tế cuả doanh nghiệp.
+* Bạn cần có một ứng dụng sát thực tế với doanh nghiệp nhỏ, dễ sử dụng và dễ triển khai
+
 * **ĐÓ LÀ LÝ ỨNG DỤNG NÀY ĐƯỢC RA ĐỜI ĐỂ GIẢI QUYẾT CÁC VẤN ĐỀ NÊU TRÊN**
 
 ## 🚀 Tính năng chính
