@@ -1,15 +1,16 @@
 ;aiu;
 
-[Update 1.1.0]
+[Update 1.1.1]
 Name = Production Server
-ProductVersion = 1.1.0
-URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.1.0/ProductManagerWebsite.exe
-Size = 219475248
-ReleaseDate = 28/02/2026
-SHA256 = C2803EEC515D667C12D3185B673D91A6286A20EAE97184B54DA7062A9051F88A
-MD5 = 83825d5c4c60caa2099b6978078d99ab
+ProductVersion = 1.1.1
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.1.1/ProductManagerWebsite.exe
+Size = 219482953
+ReleaseDate = 03/03/2026
+SHA256 = 48AFB6DEA78EEA460141FE31044959461947C28862169293C3FC4C79F7BF19E8
+MD5 = 88a5a1922813f742556a2a43c2728500
 ServerFileName = ProductManagerWebsite.exe
 Flags = Critical
 RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
-Version = 1.1.0
+Version = 1.1.1
 Feature = - Update UI
+BugFix = - fix bug register, import cashbook
