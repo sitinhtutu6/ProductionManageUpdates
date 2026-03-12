@@ -1,16 +1,15 @@
 ;aiu;
 
-[ Update 1.1.4]
+[Update 1.1.5]
 Name = Production Server
-ProductVersion = 1.1.4
-URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.1.4/ProductManagerWebsite.exe
-Size = 307481329
-ReleaseDate = 05/03/2026
-SHA256 = 4E0AC1DB1F8A14BCB174EC054650465CB9994EF3D09FF49B9227B9539681011E
-MD5 = c47bfc5f5681bb782e6912a3606881d1
+ProductVersion = 1.1.5
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.1.5/ProductManagerWebsite.exe
+Size = 307564803
+ReleaseDate = 12/03/2026
+SHA256 = BC106A01C24B23DE122E68379011FF58360A385D63B7D08E9DD2255325C3F1AB
+MD5 = 05b581a2cb20dd494ba175ae96119128
 ServerFileName = ProductManagerWebsite.exe
 Flags = Critical
 RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
-Version = 1.1.4
-Feature = - fix UI public
-BugFix = - fix bug can't create cashbook from PO Details
+Version = 1.1.5
+BugFix = - fix bug feature and UI of debt
