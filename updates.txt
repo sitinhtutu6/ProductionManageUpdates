@@ -1,16 +1,16 @@
 ;aiu;
 
-[Update 1.1.6]
+[Update 1.1.7]
 Name = Production Server
-ProductVersion = 1.1.6
-URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.1.6/ProductManagerWebsite.exe
-Size = 307463243
-ReleaseDate = 14/03/2026
-SHA256 = 269D74F009124A54EFE065D88CFDAB30A1154485A7B60EDA05CCEB64FCDA7429
-MD5 = fe9c8c6a37527962e70cd0a34b91d105
+ProductVersion = 1.1.7
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.1.7/ProductManagerWebsite.exe
+Size = 307773894
+ReleaseDate = 16/03/2026
+SHA256 = 929C08E670AA9B3EA27B151BE926544ACDCD82530EBB70D8289F7E293C267EF6
+MD5 = 80ae4ba3de8a4029759be2309db9b587
 ServerFileName = ProductManagerWebsite.exe
 Flags = Critical
 RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
-Version = 1.1.6
+Version = 1.1.7
 Feature = - add invoice
 BugFix = - fix bug feature and UI of debt
