@@ -1,16 +1,16 @@
 ;aiu;
 
-[Update 1.1.8]
+[Update 1.1.9]
 Name = Production Server
-ProductVersion = 1.1.8
-URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.1.8/ProductManagerWebsite.exe
-Size = 307924658
-ReleaseDate = 17/03/2026
-SHA256 = 740D86771885F0E4DD79DBA12FAF54D8B4BA33AE76EE24B2C0437761AEC703C9
-MD5 = 6004d6ee678ea9ab3669ccfc85d74fca
+ProductVersion = 1.1.9
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.1.9/ProductManagerWebsite.exe
+Size = 308317224
+ReleaseDate = 18/03/2026
+SHA256 = AD5D852A5D574373DC1F15E1EB0A5678006AC086759E3CEC34E012C99172948A
+MD5 = 520097e78b852f8e1a64843f0ae958c8
 ServerFileName = ProductManagerWebsite.exe
 Flags = Critical
 RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
-Version = 1.1.8
-Feature = - add invoice
-BugFix = - fix bug feature and UI of debt
+Version = 1.1.9
+Feature = - add prices product
+BugFix = - fix import cashbook
