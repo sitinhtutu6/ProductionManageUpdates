@@ -2,8 +2,6 @@
 
 **Hệ thống Quản lý Sản xuất & Kinh doanh**
 
-** Tải từ V1.2.0 hoặc bản mới nhất để tránh bị các lỗi không mong muốn **
-
 Production Manager là một ứng dụng web được xây dựng trên nền tảng **ASP.NET Core (MVC)** giúp doanh nghiệp quản lý quy trình từ đơn hàng, định mức nguyên vật liệu, kế hoạch sản xuất và tài chính.
 
 ## TẠI SAO LẠI CÓ ỨNG DỤNG NÀY?
@@ -48,7 +46,7 @@ Production Manager là một ứng dụng web được xây dựng trên nền t
 - Bước 6: Đăng ký tài khoản và confirm Email (Admin) -> restart lại server (start LAN) để cập nhật email Admin
 
 ### 3. Cách để lấy App password: 
-- 1. truy cập: [Google Account Security.](https://myaccount.google.com/u/1/security)
+- 1. truy cập: [Google Account Security.](https://myaccount.google.com/u/1/security) **Tải từ V1.2.0 hoặc bản mới nhất để tránh bị các lỗi không mong muốn**
 - 2. Bật Xác thực 2 bước (2-Step Verification) nếu chưa bật.
 - 3. Tìm mục Mật khẩu ứng dụng (App Passwords) (hoặc gõ vào ô tìm kiếm).
 - 4. Tạo tên ứng dụng mới (VD: ProductionApp) -> Bấm Create.
@@ -66,7 +64,6 @@ Production Manager là một ứng dụng web được xây dựng trên nền t
     + Chat ID là: -5115188192 hãy copy và paste vào Tele Chat ID
 
 ### 5. LƯU Ý:
-- Đây là dự án cá nhân **vide-code** không mang tính chuyên nghiệp và **không thương mại hoá**, người dùng nên kiểm tra/ đối soát lại số liệu có đúng yêu cầu mong muốn không!
+- Đây là dự án cá nhân **vide-code** không mang tính chuyên nghiệp và **không thương mại hoá**, người dùng nên kiểm tra/ đối soát lại số liệu có đúng yêu cầu mong muốn trước khi triển khai rộng rãi!
 - Một số tính năng như ngôn ngữ đang trong quá trình phát triển nên có thể còn tồn động và sai sót.
-- Hãy dùng version mới nhất để tránh sai sót.
-- Mặc dù ứng dụng sử dụng mạng LAN để tránh tình trạng bị đánh cắp dữ liệu, nhưng hãy backup dữ liệu và lưu chứng từ hàng tháng để đảm bảo an toàn.
+- Mặc dù ứng dụng sử dụng mạng LAN để tránh tình trạng bị xâm phạm hệ thống, nhưng hãy backup dữ liệu và lưu chứng từ hàng tháng để đảm bảo an toàn.
