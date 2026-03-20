@@ -1,16 +1,15 @@
 ;aiu;
 
-[Update 1.1.9]
+[Update 1.2.0]
 Name = Production Server
-ProductVersion = 1.1.9
-URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.1.9/ProductManagerWebsite.exe
-Size = 308317224
-ReleaseDate = 18/03/2026
-SHA256 = AD5D852A5D574373DC1F15E1EB0A5678006AC086759E3CEC34E012C99172948A
-MD5 = 520097e78b852f8e1a64843f0ae958c8
+ProductVersion = 1.2.0
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.2.0/ProductManagerWebsite.exe
+Size = 308365126
+ReleaseDate = 20/03/2026
+SHA256 = F17BA15444309CB2F16B7F54DE7B97A98030AC4F888ECD5A37A8128C02EA8655
+MD5 = 73efff4d8799102331d8f72a8a009002
 ServerFileName = ProductManagerWebsite.exe
 Flags = Critical
 RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
-Version = 1.1.9
-Feature = - add prices product
-BugFix = - fix import cashbook
+Version = 1.2.0
+BugFix = - update and fix bug BOM create
