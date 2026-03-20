@@ -64,6 +64,6 @@ Production Manager là một ứng dụng web được xây dựng trên nền t
     + Chat ID là: -5115188192 hãy copy và paste vào Tele Chat ID
 
 ### 5. LƯU Ý:
-- Đây là dự án cá nhân **vide-code** không mang tính chuyên nghiệp và **không thương mại hoá**, người dùng nên kiểm tra/ đối soát lại số liệu có đúng yêu cầu mong muốn trước khi triển khai rộng rãi!
+- Đây là dự án cá nhân **vide-code** không mang tính chuyên nghiệp, phục vụ cộng đồng và **không thương mại hoá**, người dùng nên kiểm tra/ đối soát lại số liệu có đúng yêu cầu mong muốn trước khi triển khai rộng rãi!
 - Một số tính năng như ngôn ngữ đang trong quá trình phát triển nên có thể còn tồn động và sai sót.
-- Mặc dù ứng dụng sử dụng mạng LAN để tránh tình trạng bị xâm phạm hệ thống, nhưng hãy backup dữ liệu và lưu chứng từ hàng tháng để đảm bảo an toàn.
+- Mặc dù ứng dụng sử dụng mạng LAN để tránh tình trạng hệ thống bị xâm nhập bất hợp pháp, nhưng hãy backup dữ liệu và lưu chứng từ hàng tháng để đảm bảo an toàn.
