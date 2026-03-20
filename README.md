@@ -1,7 +1,9 @@
 # 🏭 Production Manager
 
 **Hệ thống Quản lý Sản xuất & Kinh doanh**
+
 ** Tải từ V1.2.0 hoặc bản mới nhất để tránh bị các lỗi không mong muốn **
+
 Production Manager là một ứng dụng web được xây dựng trên nền tảng **ASP.NET Core (MVC)** giúp doanh nghiệp quản lý quy trình từ đơn hàng, định mức nguyên vật liệu, kế hoạch sản xuất và tài chính.
 
 ## TẠI SAO LẠI CÓ ỨNG DỤNG NÀY?
