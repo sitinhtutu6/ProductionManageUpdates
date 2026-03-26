@@ -1,15 +1,15 @@
 ;aiu;
 
-[Update 1.2.1]
+[Update 1.2.2]
 Name = Production Server
-ProductVersion = 1.2.1
-URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.2.1/ProductManagerWebsite.exe
-Size = 308353226
-ReleaseDate = 20/03/2026
-SHA256 = 6CCA66D7B3E51AA7C3C301AD864CA508FFED7C134ADF12B233A133A4DE5701C1
-MD5 = cd9d0a481a39e83fc1e2c5536ffb3790
+ProductVersion = 1.2.2
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.2.2/ProductManagerWebsite.exe
+Size = 308668821
+ReleaseDate = 26/03/2026
+SHA256 = 1B0FFF7DEAC9921C39DC4A1EFA076C0C08A9398D679B00817828828E973CB991
+MD5 = a560d2683d28206e6a4035612bc56076
 ServerFileName = ProductManagerWebsite.exe
 Flags = Critical
 RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
-Version = 1.2.1
-BugFix = - fix export UI
+Version = 1.2.2
+BugFix = - update and fix bug BOM create
