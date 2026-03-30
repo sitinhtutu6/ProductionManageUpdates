@@ -1,15 +1,15 @@
 ;aiu;
 
-[Update 1.2.3]
+[Update 1.2.4]
 Name = Production Server
-ProductVersion = 1.2.3
-URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.2.3/ProductManagerWebsite.exe
-Size = 308667138
-ReleaseDate = 27/03/2026
-SHA256 = 428E5149A98457AFF532618A4032F9190B6234116DAFE4777332C847FCF837F6
-MD5 = 4241eecccc7881da996032208363fe38
+ProductVersion = 1.2.4
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.2.4/ProductManagerWebsite.exe
+Size = 308767455
+ReleaseDate = 30/03/2026
+SHA256 = 5F9C48A3FFFBA915789E53718C78504CD5A5F02BC51869737DF10CF287E11C47
+MD5 = e271bb84fff200fac4562afebea4aca0
 ServerFileName = ProductManagerWebsite.exe
 Flags = Critical
 RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
-Version = 1.2.3
+Version = 1.2.4
 BugFix = - fix logic shipment
