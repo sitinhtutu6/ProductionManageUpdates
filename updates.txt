@@ -1,15 +1,379 @@
 ;aiu;
 
+[Update 1.2.6]
+Name = Production Server
+ProductVersion = 1.2.6
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.2.6/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 27/04/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.2.6
+BugFix = - fix logic shipment
+
 [Update 1.2.5]
 Name = Production Server
 ProductVersion = 1.2.5
 URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.2.5/ProductManagerWebsite.exe
-Size = 308988003
+Size = 309396602
 ReleaseDate = 06/04/2026
-SHA256 = 50F90B5BDC0A9E9D0168FA93EF7613A0689D1526FAD759FD2D8744DA01DB8452
-MD5 = a1606fdc07759dc95c208152507b8fcf
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
 ServerFileName = ProductManagerWebsite.exe
 Flags = Critical
 RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
 Version = 1.2.5
 BugFix = - fix logic shipment
+
+[Update 1.2.4]
+Name = Production Server
+ProductVersion = 1.2.4
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.2.4/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 30/03/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.2.4
+BugFix = - fix logic shipment
+
+[Update 1.2.3]
+Name = Production Server
+ProductVersion = 1.2.3
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.2.3/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 27/03/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.2.3
+BugFix = - fix logic shipment
+
+[Update 1.2.2]
+Name = Production Server
+ProductVersion = 1.2.2
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.2.2/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 26/03/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.2.2
+BugFix = - update and fix bug BOM create
+
+[Update 1.2.1]
+Name = Production Server
+ProductVersion = 1.2.1
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.2.1/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 20/03/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.2.1
+BugFix = - update and fix bug BOM create
+
+[Update 1.2.0]
+Name = Production Server
+ProductVersion = 1.2.0
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.2.0/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 20/03/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.2.0
+BugFix = - update and fix bug BOM create
+
+[Update 1.1.9]
+Name = Production Server
+ProductVersion = 1.1.9
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.1.9/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 18/03/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.1.9
+BugFix = - update and fix bug BOM create
+
+[Update 1.1.8]
+Name = Production Server
+ProductVersion = 1.1.8
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.1.8/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 17/03/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.1.8
+Feature = - add invoice
+BugFix = - fix bug feature and UI of debt
+
+[Update 1.1.7]
+Name = Production Server
+ProductVersion = 1.1.7
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.1.7/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 16/03/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.1.7
+Feature = - add invoice
+BugFix = - fix bug feature and UI of debt
+
+[Update 1.1.6]
+Name = Production Server
+ProductVersion = 1.1.6
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.1.6/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 14/03/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.1.6
+Feature = - add invoice
+BugFix = - fix bug feature and UI of debt
+
+[Update 1.1.5]
+Name = Production Server
+ProductVersion = 1.1.5
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.1.5/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 12/03/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.1.5
+BugFix = - fix bug feature and UI of debt
+
+[Update 1.1.4]
+Name = Production Server
+ProductVersion = 1.1.4
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.1.4/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 05/03/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.1.4
+Feature = - fix UI public
+BugFix = - fix bug can't create cashbook from PO Details
+
+[Update 1.1.3]
+Name = Production Server
+ProductVersion = 1.1.3
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.1.3/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 04/03/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.1.23
+Feature = - fix UI public
+BugFix = - fix bug can't create cashbook from PO Details
+
+[Update 1.1.2]
+Name = Production Server
+ProductVersion = 1.1.2
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.1.2/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 04/03/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.1.2
+Feature = - fix UI public
+BugFix = - fix bug can't create cashbook from PO Details
+
+[Update 1.1.1]
+Name = Production Server
+ProductVersion = 1.1.1
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.1.1/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 03/03/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.1.1
+Feature = - Update UI
+BugFix = - fix bug can't create cashbook from PO Details
+
+[Update 1.1.0]
+Name = Production Server
+ProductVersion = 1.1.0
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.1.0/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 28/02/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.1.0
+Feature = - Update UI
+BugFix = - fix bug can't create cashbook from PO Details
+
+[Update 1.0.9]
+Name = Production Server
+ProductVersion = 1.0.9
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.8.0/ProductManagerWebsiteV1.0.9.exe
+Size = 309396602
+ReleaseDate = 28/02/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.0.9
+Feature = - groupby wood type in BOM
+BugFix = - fix bug can't create cashbook from PO Details
+
+[Update 1.0.8]
+Name = Product Server
+ProductVersion = 1.0.8.0
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.8.0/ProductManagerWebsiteV1.0.8.0.exe
+Size = 309396602
+ReleaseDate = 07/02/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.0.8.0
+Feature = - groupby wood type in BOM
+BugFix = - fix bug can't create cashbook from PO Details
+
+[Update 1.0.7]
+Name = Product Server
+ProductVersion = 1.0.7
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.7/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 07/02/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.0.7
+Feature = - groupby wood type in BOM
+BugFix = - fix bug can't create cashbook from PO Details
+
+[Update 1.0.6]
+Name = Product Server
+ProductVersion = 1.0.6
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.6/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 06/02/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.0.6
+Feature = - groupby wood type in BOM
+BugFix = - fix bug can't create cashbook from PO Details
+
+[Update 1.0.5]
+Name = ProductManagerWebsite
+ProductVersion = 1.0.5
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.5/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 06/02/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.0.5
+Feature = - groupby wood type in BOM
+BugFix = - fix bug can't create cashbook from PO Details
+
+[Update 1.0.4]
+Name = ProductManagerWebsite
+ProductVersion = 1.0.4
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.4/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 30/01/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+Flags = Critical
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.0.4
+Feature = - groupby wood type in BOM
+BugFix = - fix bug can't create cashbook from PO Details
+
+[Update 1.0.3]
+Name = ProductManagerWebsite
+ProductVersion = 1.0.3
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.3/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 28/01/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.0.3
+Feature = - add Document manager
+BugFix = - fix Order page
+
+[Update 1.0.2]
+Name = ProductManagerWebsite
+ProductVersion = 1.0.2.0
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.2/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 28/01/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.0.2.0
+Feature = - add Document manager
+BugFix = - fix Order page
+
+[Update 1.0.1]
+Name = ProductManagerWebsite
+ProductVersion = 1.0.1.0
+URL = https://github.com/sitinhtutu6/ProductionManageUpdates/releases/download/v1.0.1/ProductManagerWebsite.exe
+Size = 309396602
+ReleaseDate = 28/01/2026
+SHA256 = 80BAB1BED3CD97CD42444DF58E21715E44B08AE66BEAB4634E8E0E6FF099B695
+MD5 = 24ccf9159a71efc2b21a2e2e4606b76f
+ServerFileName = ProductManagerWebsite.exe
+RegistryKey = HKUD\Software\ManMan\ProductManagerWebsite\Version
+Version = 1.0.1.0
+Feature = - add Document manager
+BugFix = - fix Order page
